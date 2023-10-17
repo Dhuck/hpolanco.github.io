@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hpolanco Blog</title>
+    <link>https://hpolanco.github.io/</link>
+    <description>Recent content on hpolanco Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Oct 2023 18:37:12 -0600</lastBuildDate><atom:link href="https://hpolanco.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://hpolanco.github.io/posts/docker/</link>
+      <pubDate>Mon, 16 Oct 2023 18:37:12 -0600</pubDate>
+      
+      <guid>https://hpolanco.github.io/posts/docker/</guid>
+      <description>This is some content
+public statit void main(String[] args) { System.out.println(&amp;#34;Test&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>
